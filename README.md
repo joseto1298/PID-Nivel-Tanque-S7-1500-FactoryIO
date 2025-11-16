@@ -56,11 +56,11 @@ A continuación, se presentan los recursos visuales que demuestran el funcionami
 
 **Bloque de Organización Principal (OB1)**
 
-![Bloque de Organización Principal (OB1)](Tia Portal Main.png)
+![Bloque de Organización Principal](https://github.com/joseto1298/PID-Nivel-Tanque-S7-1500-FactoryIO/blob/main/Tia%20Portal%20Main.png)
 
 **Configuración del Bloque PID_Compact**
 
-![Configuración del Bloque PID_Compact](Tia Portal PID.png)
+![Configuración del Bloque PID_Compact](https://github.com/joseto1298/PID-Nivel-Tanque-S7-1500-FactoryIO/blob/main/Tia%20Portal%20PID.png)
 
 
 ## 📄 Licencia
